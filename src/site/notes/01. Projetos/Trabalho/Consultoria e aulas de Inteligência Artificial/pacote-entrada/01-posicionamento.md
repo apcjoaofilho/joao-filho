@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-projetos/trabalho/consultoria-e-aulas-de-inteligencia-artificial/pacote-entrada/01-posicionamento/","created":"2026-03-15T04:30:19.324-03:00","updated":"2026-03-16T02:42:54.502-03:00"}
+{"dg-publish":true,"permalink":"/01-projetos/trabalho/consultoria-e-aulas-de-inteligencia-artificial/pacote-entrada/01-posicionamento/","tags":["gardenEntry"],"created":"2026-03-15T04:30:19.324-03:00","updated":"2026-03-16T02:44:30.819-03:00"}
 ---
 
 # Posicionamento Central da Marca
