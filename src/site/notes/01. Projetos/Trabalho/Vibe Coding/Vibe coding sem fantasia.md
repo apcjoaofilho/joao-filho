@@ -94,6 +94,6 @@ Esse enquadramento evita dois extremos:
 
 ## Leitura relacionada
 
-- [[Como eu uso Obsidian como centro de operação]]
-- [[Como publiquei meu digital garden com GitHub + Vercel]]
-- [[O deploy que quebrou e o que isso ensinou]]
+- [[03. Recursos/Obsidian/Como eu uso Obsidian como centro de operação|Como eu uso Obsidian como centro de operação]]
+- [[01. Projetos/Trabalho/Consultoria e aulas de Inteligência Artificial/Como publiquei meu digital garden com GitHub + Vercel|Como publiquei meu digital garden com GitHub + Vercel]]
+- [[01. Projetos/Trabalho/Consultoria e aulas de Inteligência Artificial/O deploy que quebrou e o que isso ensinou|O deploy que quebrou e o que isso ensinou]]

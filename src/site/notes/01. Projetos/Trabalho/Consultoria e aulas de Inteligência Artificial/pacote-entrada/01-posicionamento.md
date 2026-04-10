@@ -15,9 +15,9 @@ dg-publish: true
 
 Uso este espaço para publicar notas curtas e úteis sobre:
 
-- [[Como eu uso Obsidian como centro de operação|Obsidian como sistema de trabalho]]
-- [[Vibe coding sem fantasia|vibe coding com critério]]
-- [[Como publiquei meu digital garden com GitHub + Vercel|builds, publicação e infraestrutura leve]]
+- [[03. Recursos/Obsidian/Como eu uso Obsidian como centro de operação|Obsidian como sistema de trabalho]]
+- [[01. Projetos/Trabalho/Vibe Coding/Vibe coding sem fantasia|vibe coding com critério]]
+- [[01. Projetos/Trabalho/Consultoria e aulas de Inteligência Artificial/Como publiquei meu digital garden com GitHub + Vercel|builds, publicação e infraestrutura leve]]
 - automação prática e fluxo real de conteúdo
 
 Não me interessa produzir conteúdo genérico.
@@ -25,11 +25,11 @@ O foco aqui é mostrar processo, decisão, erro, ajuste e aprendizado.
 
 ## Comece por aqui
 
-- [[Como eu uso Obsidian como centro de operação]]
-- [[Vibe coding sem fantasia]]
-- [[Como publiquei meu digital garden com GitHub + Vercel]]
-- [[O deploy que quebrou e o que isso ensinou]]
-- [[Da nota ao carrossel — meu fluxo de conteúdo]]
+- [[03. Recursos/Obsidian/Como eu uso Obsidian como centro de operação|Como eu uso Obsidian como centro de operação]]
+- [[01. Projetos/Trabalho/Vibe Coding/Vibe coding sem fantasia|Vibe coding sem fantasia]]
+- [[01. Projetos/Trabalho/Consultoria e aulas de Inteligência Artificial/Como publiquei meu digital garden com GitHub + Vercel|Como publiquei meu digital garden com GitHub + Vercel]]
+- [[01. Projetos/Trabalho/Consultoria e aulas de Inteligência Artificial/O deploy que quebrou e o que isso ensinou|O deploy que quebrou e o que isso ensinou]]
+- [[01. Projetos/Trabalho/Social Media/Strategy/Da nota ao carrossel — meu fluxo de conteúdo|Da nota ao carrossel — meu fluxo de conteúdo]]
 
 ## Temas principais
 
@@ -53,4 +53,4 @@ Notas sobre deploys, bugs, decisões e bastidores de construção.
 
 O conteúdo antigo que estava aqui foi preservado em:
 
-- [[Posicionamento Estratégico da Marca]]
+- [[01. Projetos/Trabalho/Consultoria e aulas de Inteligência Artificial/pacote-entrada/Posicionamento Estratégico da Marca|Posicionamento Estratégico da Marca]]

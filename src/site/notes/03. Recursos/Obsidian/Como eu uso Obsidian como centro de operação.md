@@ -112,6 +112,6 @@ Em vez de tratar conhecimento, execução e distribuição como mundos separados
 
 ## Leitura relacionada
 
-- [[Vibe coding sem fantasia]]
-- [[Como publiquei meu digital garden com GitHub + Vercel]]
-- [[Da nota ao carrossel — meu fluxo de conteúdo]]
+- [[01. Projetos/Trabalho/Vibe Coding/Vibe coding sem fantasia|Vibe coding sem fantasia]]
+- [[01. Projetos/Trabalho/Consultoria e aulas de Inteligência Artificial/Como publiquei meu digital garden com GitHub + Vercel|Como publiquei meu digital garden com GitHub + Vercel]]
+- [[01. Projetos/Trabalho/Social Media/Strategy/Da nota ao carrossel — meu fluxo de conteúdo|Da nota ao carrossel — meu fluxo de conteúdo]]

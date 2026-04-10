@@ -78,5 +78,5 @@ Foi isso que aconteceu aqui:
 
 ## Leitura relacionada
 
-- [[Como publiquei meu digital garden com GitHub + Vercel]]
-- [[Vibe coding sem fantasia]]
+- [[01. Projetos/Trabalho/Consultoria e aulas de Inteligência Artificial/Como publiquei meu digital garden com GitHub + Vercel|Como publiquei meu digital garden com GitHub + Vercel]]
+- [[01. Projetos/Trabalho/Vibe Coding/Vibe coding sem fantasia|Vibe coding sem fantasia]]
