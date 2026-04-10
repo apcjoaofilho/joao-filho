@@ -1,78 +1,56 @@
 ---
-{"dg-publish":true,"permalink":"/01-projetos/trabalho/consultoria-e-aulas-de-inteligencia-artificial/pacote-entrada/01-posicionamento/","tags":["gardenEntry"],"created":"2026-03-15T04:30:19.324-03:00","updated":"2026-03-16T02:44:30.819-03:00"}
+title: "João Filho — Obsidian, vibe coding e automação prática"
+tags:
+  - gardenEntry
+  - obsidian
+  - vibe-coding
+  - automacao
+  - digital-garden
+created: 2026-03-15
+updated: 2026-04-10
+dg-publish: true
 ---
 
-# Posicionamento Central da Marca
+# João Filho
 
-## Estrutura de marca: Empresa + João Filho
+Uso este espaço para publicar notas curtas e úteis sobre:
 
-### Problema com o nome atual da MEI
-O nome registrado "60.332.247 JOAO BARBOSA DE ALENCAR" não funciona como marca comercial.
-A MEI pode operar com **nome fantasia** (não altera CNPJ, só aparência comercial).
+- [[Como eu uso Obsidian como centro de operação|Obsidian como sistema de trabalho]]
+- [[Vibe coding sem fantasia|vibe coding com critério]]
+- [[Como publiquei meu digital garden com GitHub + Vercel|builds, publicação e infraestrutura leve]]
+- automação prática e fluxo real de conteúdo
 
-### Sugestões de nome fantasia para a MEI
-Algumas opções para João escolher:
+Não me interessa produzir conteúdo genérico.
+O foco aqui é mostrar processo, decisão, erro, ajuste e aprendizado.
 
-| Opção | Nome | Posicionamento |
-|---|---|---|
-| A | **InteliGov** | IA + Governança Pública |
-| B | **DataGov Capacitação** | Dados + Governo |
-| C | **Nexo Público** | Conexão entre IA e setor público |
-| D | **Praxis Digital** | Aplicação prática de tecnologia |
-| E | **CivitasIA** | Cidade + IA (civitas = comunidade/cidade) |
+## Comece por aqui
 
-**Recomendação:** uma das opções acima, com João Filho como rosto técnico.
+- [[Como eu uso Obsidian como centro de operação]]
+- [[Vibe coding sem fantasia]]
+- [[Como publiquei meu digital garden com GitHub + Vercel]]
+- [[O deploy que quebrou e o que isso ensinou]]
+- [[Da nota ao carrossel — meu fluxo de conteúdo]]
 
----
+## Temas principais
 
-## Tagline sugerida
+### Obsidian
 
-> *"Inteligência aplicada ao serviço público."*
+Notas sobre organização de contexto, MOCs, sistemas pessoais, memória operacional e publicação.
 
-Alternativas:
-- "Tecnologia que o setor público consegue usar."
-- "Da investigação à inovação — IA aplicada ao setor público."
-- "Analise mais. Decida melhor. Com IA."
+### Vibe coding
 
----
+Notas sobre velocidade, limites, revisão, validação e uso sério de agentes e IA no trabalho.
 
-## Posicionamento central
+### Automação prática
 
-**Marca:** [Nome da empresa a definir]
+Notas sobre processos pequenos, úteis e replicáveis que economizam tempo real.
 
-**Especialista-âncora:** João Filho
+### Build in public
 
-**Proposta de valor:**
-Capacitação em IA aplicada ao setor público e a pequenas empresas, com foco em aplicação prática imediata — sem jargão e sem teoria vazia. Ministrada por especialista com experiência real em análise de dados, inteligência, Direito e uso de tecnologia em ambiente crítico.
+Notas sobre deploys, bugs, decisões e bastidores de construção.
 
-**Diferencial principal:**
-João Filho não vem do "mundo da IA como produto". Ele vem de inteligência policial, análise forense, provas digitais e suporte técnico à tomada de decisão. Isso dá peso técnico real ao conteúdo — especialmente em temas como supervisão crítica de IA, análise de risco, conformidade legal e produção de documentos técnicos.
+## Nota anterior da home
 
-**Diferencial regional:**
-Operação presencial no PI, MA e CE. Conhecimento do ecossistema institucional local. Acessibilidade geográfica que empresas de Curitiba ou Brasília não têm.
+O conteúdo antigo que estava aqui foi preservado em:
 
----
-
-## Arquitetura de ofertas (visão geral)
-
-```
-[Nome da Empresa]
-│
-├── Frente 1: Setor Público Municipal
-│   ├── Curso-âncora: IA nas Contratações Públicas (16h presencial)
-│   ├── Workshop: Documentos técnicos com IA (ETP, TR, DFD)
-│   └── Consultoria: diagnóstico + implantação de fluxos com IA
-│
-└── Frente 2: PMEs
-    ├── Curso: IA para Pequenas Empresas — Produtividade Real (8h presencial)
-    ├── Workshop: IA na gestão e atendimento ao cliente
-    └── Consultoria: diagnóstico de processos + automação com IA
-```
-
----
-
-## Narrativa do instrutor (resumo)
-
-João Filho não ensina IA como um produto a vender. Ele usa IA como ferramenta de trabalho real há anos — em investigações criminais, análise de dados, produção de relatórios e apoio à decisão em ambiente de alta responsabilidade.
-
-É a diferença entre quem conhece IA por dentro e quem apenas aprendeu a falar sobre ela.
+- [[Posicionamento Estratégico da Marca]]
